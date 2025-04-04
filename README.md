@@ -1,4 +1,4 @@
-# AIBiltz: Detection of AI-generated Images
+# AIBlitz: Detection of AI-generated Images
 
 ## Problem Statement
 
@@ -142,8 +142,8 @@ Optimizing the solution for real-time detection in web applications and social m
 
 ## Team Members
 
-- G Varshit HariPrasad
-- P G Deepika 
+- G. Varshit HariPrasad
+- P. Gyana Deepika 
 - Atul Kumar Rajak
 - Sudhanshu Ranjan
 
