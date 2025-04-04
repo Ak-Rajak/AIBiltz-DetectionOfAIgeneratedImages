@@ -142,14 +142,14 @@ Optimizing the solution for real-time detection in web applications and social m
 
 ## Team Members
 
-- G. Varshit HariPrasad
+- G. Varshit Hari Prasad
 - P. Gyana Deepika 
 - Atul Kumar Rajak
 - Sudhanshu Ranjan
 
 ## Demo
 
-A demonstration video showcasing our solution can be found [here](YOUR_VIDEO_LINK).
+A demonstration video showcasing our solution can be found [here](https://drive.google.com/file/d/1cEBmbBtjdusjYmSm-_0SdozrjMzNcFqQ/view?usp=sharingK).
 
 <!-- You can replace "YOUR_VIDEO_LINK" with the actual URL of your demo video -->
 <!-- Alternatively, you can embed the video directly like this:
